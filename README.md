@@ -86,11 +86,5 @@ GitHub: (Your profile link)
 
 Give it a ⭐ on GitHub!
 
-🔥 Pro Tips (Very Important)
-
-To make this even more attractive:
-
-Add dataset screenshots
-Add before vs after comparison
 Upload notebook with clean comments
 Pin this repo on your GitHub
