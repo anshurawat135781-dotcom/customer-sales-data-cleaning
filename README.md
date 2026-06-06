@@ -19,25 +19,31 @@ Incorrect and noisy values (e.g., "51 years", -10, 250)
 📈 Matplotlib, Seaborn
 🔍 Regex (for text cleaning)
 🔧 Data Cleaning Steps
+
 ✅ 1. Data Understanding
 Used .info(), .describe(), .isnull() to analyze structure and missing data
+
 ✅ 2. Handling Missing Values
 Median → Age (numerical)
 Mode → Gender, City, Country (categorical)
 Forward Fill → Date columns
+
 ✅ 3. Data Standardization
 Cleaned Gender → male, female
 Standardized City → uppercase & trimmed
 Fixed Country → IND, india → INDIA
+
 ✅ 4. Feature Cleaning
 Extracted numeric values from Age column using Regex
 Converted:
 Age → numeric
 Dates → datetime format
+
 ✅ 5. Handling Duplicates
 Removed duplicate rows
 Removed duplicate Customer_IDs (kept first occurrence)
 Reduced dataset from 10,200 → ~9,000 records
+
 ✅ 6. Outlier Detection
 Used Z-score method to detect and remove extreme values
 Visualized using boxplots
