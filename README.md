@@ -60,9 +60,6 @@ customer-sales-data-cleaning/
 │── messy_data.csv
 │── cleaned_data.csv
 │── README.md
-📸 Before vs After (Optional - Add Screenshot)
-
-👉 Add dataset screenshots here to impress recruiters
 
 🚀 Key Learnings
 Real-world data is always messy
@@ -79,9 +76,6 @@ This project demonstrates strong skills in:
 Data preprocessing
 Data wrangling
 Problem-solving using Python
-🔗 Connect With Me
-LinkedIn: (Add your link here)
-GitHub: (Your profile link)
 ⭐ If you like this project
 
 Give it a ⭐ on GitHub!
