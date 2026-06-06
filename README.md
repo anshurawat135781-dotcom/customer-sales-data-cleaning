@@ -86,5 +86,3 @@ GitHub: (Your profile link)
 
 Give it a ⭐ on GitHub!
 
-Upload notebook with clean comments
-Pin this repo on your GitHub
